@@ -56,3 +56,6 @@ terraform destroy
 ```
 
 **WARNING**: You need to empty the S3 bucket before destroying resources.
+
+### Architecture
+![diagram](data/iam.png)
