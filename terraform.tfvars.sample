@@ -1,2 +1,3 @@
-aws_region  = "<aws_region>"
-bucket_name = "<bucket_name>"
+aws_region    = "<aws_region>"
+bucket_name   = "<bucket_name>"
+iam_user_name = "<iam_user_name>"
